@@ -1,0 +1,5 @@
+C:\CsStuff\Primes\obj\Debug\Primes.csprojResolveAssemblyReference.cache
+C:\CsStuff\Primes\bin\Debug\Primes.exe
+C:\CsStuff\Primes\bin\Debug\Primes.pdb
+C:\CsStuff\Primes\obj\Debug\Primes.exe
+C:\CsStuff\Primes\obj\Debug\Primes.pdb
