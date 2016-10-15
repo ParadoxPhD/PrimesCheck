@@ -3,3 +3,8 @@ C:\CsStuff\Primes\bin\Debug\Primes.exe
 C:\CsStuff\Primes\bin\Debug\Primes.pdb
 C:\CsStuff\Primes\obj\Debug\Primes.exe
 C:\CsStuff\Primes\obj\Debug\Primes.pdb
+D:\DOCUMENTS\Clones\PrimesCheck\obj\Debug\Primes.exe
+D:\DOCUMENTS\Clones\PrimesCheck\obj\Debug\Primes.pdb
+D:\DOCUMENTS\Clones\PrimesCheck\bin\Debug\Primes.exe
+D:\DOCUMENTS\Clones\PrimesCheck\bin\Debug\Primes.pdb
+D:\DOCUMENTS\Clones\PrimesCheck\obj\Debug\Primes.csprojResolveAssemblyReference.cache
